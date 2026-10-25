@@ -11,7 +11,7 @@ Página React pensada para usar pelo celular durante uma live.
 ## Como abrir no computador
 1. Instale Node.js (versão LTS).
 2. Extraia o ZIP.
-3. Dentro da pasta, execute:
+3. Dentro da pasta com os arquivos todos juntos, execute:
    ```bash
    npm install
    npm run dev
